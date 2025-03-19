@@ -1,0 +1,19 @@
+img{
+    height: 70px;
+    width: 70px;
+}
+
+
+.carbonara{
+    height: fit-content;
+    width: fit-content;
+}
+
+body{
+    background-color: grey;
+}
+
+header{
+    color: white;
+}
+
