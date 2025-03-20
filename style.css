@@ -9,11 +9,15 @@ img{
     width: fit-content;
 }
 
-body{
+/* body{
     background-color: grey;
-}
+} */
 
 header{
+    padding-bottom: 20px;
+    background-image: url(./osteria\ romana\ \(1\).png) ; 
+    height: fit-content;
     color: white;
+    /* background-repeat: no-repeat; */
 }
 
